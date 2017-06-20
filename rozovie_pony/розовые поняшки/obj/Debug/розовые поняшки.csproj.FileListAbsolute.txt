@@ -1,0 +1,12 @@
+c:\users\патрик\documents\visual studio 2015\Projects\розовые поняшки\розовые поняшки\bin\Debug\розовые поняшки.exe.config
+c:\users\патрик\documents\visual studio 2015\Projects\розовые поняшки\розовые поняшки\bin\Debug\розовые поняшки.exe
+c:\users\патрик\documents\visual studio 2015\Projects\розовые поняшки\розовые поняшки\bin\Debug\розовые поняшки.pdb
+c:\users\патрик\documents\visual studio 2015\Projects\розовые поняшки\розовые поняшки\obj\Debug\розовые поняшки.csprojResolveAssemblyReference.cache
+c:\users\патрик\documents\visual studio 2015\Projects\розовые поняшки\розовые поняшки\obj\Debug\розовые_поняшки.Form1.resources
+c:\users\патрик\documents\visual studio 2015\Projects\розовые поняшки\розовые поняшки\obj\Debug\розовые_поняшки.Properties.Resources.resources
+c:\users\патрик\documents\visual studio 2015\Projects\розовые поняшки\розовые поняшки\obj\Debug\розовые поняшки.csproj.GenerateResource.Cache
+c:\users\патрик\documents\visual studio 2015\Projects\розовые поняшки\розовые поняшки\obj\Debug\розовые поняшки.exe
+c:\users\патрик\documents\visual studio 2015\Projects\розовые поняшки\розовые поняшки\obj\Debug\розовые поняшки.pdb
+C:\Users\Патрик\Documents\Visual Studio 2015\Projects\Новая папка (2)\розовые поняшки\розовые поняшки\bin\Debug\розовые поняшки.exe.config
+C:\Users\Патрик\Documents\Visual Studio 2015\Projects\Новая папка (2)\розовые поняшки\розовые поняшки\obj\Debug\розовые поняшки.exe
+C:\Users\Патрик\Documents\Visual Studio 2015\Projects\Новая папка (2)\розовые поняшки\розовые поняшки\obj\Debug\розовые поняшки.pdb
