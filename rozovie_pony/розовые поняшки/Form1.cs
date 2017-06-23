@@ -104,6 +104,13 @@ namespace розовые_поняшки
         {
 
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            string proccess_name = textBox1.Text.ToString();
+
+            Process.Start(proccess_name);
+        }
     }
     }
 

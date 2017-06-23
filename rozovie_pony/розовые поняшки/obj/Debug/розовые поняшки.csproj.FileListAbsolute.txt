@@ -19,3 +19,12 @@ C:\Users\Mike\ponyashki\rozovie_pony\розовые поняшки\obj\Debug\р�
 C:\Users\Mike\ponyashki\rozovie_pony\розовые поняшки\obj\Debug\розовые_поняшки.Form1.resources
 C:\Users\Mike\ponyashki\rozovie_pony\розовые поняшки\obj\Debug\розовые_поняшки.Properties.Resources.resources
 C:\Users\Mike\ponyashki\rozovie_pony\розовые поняшки\obj\Debug\розовые поняшки.csproj.GenerateResource.Cache
+C:\Users\Михаил\Desktop\git\ponyashki\rozovie_pony\розовые поняшки\bin\Debug\розовые поняшки.exe.config
+C:\Users\Михаил\Desktop\git\ponyashki\rozovie_pony\розовые поняшки\bin\Debug\розовые поняшки.exe
+C:\Users\Михаил\Desktop\git\ponyashki\rozovie_pony\розовые поняшки\bin\Debug\розовые поняшки.pdb
+C:\Users\Михаил\Desktop\git\ponyashki\rozovie_pony\розовые поняшки\obj\Debug\розовые поняшки.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Desktop\git\ponyashki\rozovie_pony\розовые поняшки\obj\Debug\розовые_поняшки.Form1.resources
+C:\Users\Михаил\Desktop\git\ponyashki\rozovie_pony\розовые поняшки\obj\Debug\розовые_поняшки.Properties.Resources.resources
+C:\Users\Михаил\Desktop\git\ponyashki\rozovie_pony\розовые поняшки\obj\Debug\розовые поняшки.csproj.GenerateResource.Cache
+C:\Users\Михаил\Desktop\git\ponyashki\rozovie_pony\розовые поняшки\obj\Debug\розовые поняшки.exe
+C:\Users\Михаил\Desktop\git\ponyashki\rozovie_pony\розовые поняшки\obj\Debug\розовые поняшки.pdb
